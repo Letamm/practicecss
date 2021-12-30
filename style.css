@@ -1,0 +1,52 @@
+h1{font-family: 'Merriweather', serif; font-size: 55px; font-style: normal; margin-bottom: -5px; margin-top: -10px;}
+body {
+  background-image: url(images/knight.jpg);
+  background-size: 1366px;
+}
+.longsword{
+  box-sizing: border-box;
+  display: block;
+  font-size: 16px;
+  border;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  background-color: gray;
+  margin-bottom: 15px;
+  font-family: 'Merriweather', serif;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.zweihander{
+  box-sizing: border-box;
+  display: block;
+  font-size: 16px;
+  border;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  background-color: gray;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 15px;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.rapier{
+  box-sizing: border-box;
+  display: block;
+  font-size: 16px;
+  border;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  background-color: gray;
+  font-family: 'Merriweather', serif;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
